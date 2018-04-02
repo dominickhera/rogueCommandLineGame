@@ -1,6 +1,6 @@
 # rogueCommandLineGame
 
-======================
+=
 a4
 5/3/16
 dominick hera

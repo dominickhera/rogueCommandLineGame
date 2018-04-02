@@ -1,20 +1,17 @@
 # rogueCommandLineGame
 
-=
+
 dominick hera
 =
 
-=
 to run
 =
 ./bin/rogue ./assets/hard.txt
 
-=
 to compile
 =
 type 'make' to run the makeFile
 
-=
 known limitations
 =
 - hallway offsets are messed up and some print far off the screen
@@ -28,7 +25,6 @@ known limitations
 - picking up equiptment or items doesn't print the coded notification
 - only bats will listen to the patrol calls, none of the other enemies will move around
 
-=
 testing
 =
 - bat enemy was spawning with 50 health, turns out it was a typing error in the code 

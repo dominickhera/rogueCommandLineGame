@@ -1,24 +1,22 @@
 # rogueCommandLineGame
 
 =
-a4
-5/3/16
 dominick hera
-======================
+=
 
-======
+=
 to run
-======
+=
 ./bin/rogue ./assets/hard.txt
 
-==========
+=
 to compile
-==========
+=
 type 'make' to run the makeFile
 
-====================
+=
 known limitations
-====================
+=
 - hallway offsets are messed up and some print far off the screen
 - combat seems to only work on enemies within the first room but fails to work in any other room
 - when transitioning from room to hallway, it turns the doorway into a # character
@@ -30,7 +28,7 @@ known limitations
 - picking up equiptment or items doesn't print the coded notification
 - only bats will listen to the patrol calls, none of the other enemies will move around
 
-=======
+=
 testing
-=======
+=
 - bat enemy was spawning with 50 health, turns out it was a typing error in the code 
